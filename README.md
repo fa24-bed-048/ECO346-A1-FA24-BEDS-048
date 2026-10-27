@@ -3,7 +3,7 @@
 **Independent practice copy - not the submitted assignment.**
 
 Data Visualization Techniques for Economists - Assignment 1 (Fall 2026), worked for
-registration number **FA24-BEDS-048** so the concepts can be studied separately from the real submission for FA24-BEDS-105.
+registration number **FA24-BEDS-048** so the concepts can be studied separately from the real submission for FA24-BEDS-048.
 
 | | |
 |---|---|
